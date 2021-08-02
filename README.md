@@ -1,3 +1,14 @@
+
+
+# This repository is not used. It has been archived for now and will be deleted in the near future
+
+The functionality that was originally planned to go here is now put directly into [EDM4hep](https://github.com/key4hep/EDM4hep).
+
+Original contents of the README below
+
+------- 
+
+
 # EDM4hep-utils
 
 This repository contains utility functionality that facilitates working with
